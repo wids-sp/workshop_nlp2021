@@ -28,8 +28,7 @@ https://github.com/MirelleB/intencion-detection-spacy/blob/master/Intent-Detecti
 
 **Concluiu a tarefa?**
 - Parabéns!!! Compartilhe no [Telegram do WiDS SP](https://t.me/joinchat/Fuz8oqLJQMXt8nhc) como foi!
-- E responde pra gente (esse form)[https://forms.gle/7x9JPT8gnuvBxECx8] contando o que achou do workshop!
-
+- E responde pra gente [esse form](https://forms.gle/7x9JPT8gnuvBxECx8) contando o que achou do workshop!
 
 Obrigada pela sua participação :wink:
 
